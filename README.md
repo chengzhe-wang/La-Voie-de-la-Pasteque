@@ -2,7 +2,7 @@
 
 **La Voie de la Pastèque** is a high school project made by myself and two classmates. This game is a visual novel made with Ren'py and Python. 
   
-[**You can download the game here**](LaVoieDeLaPasteque.zip). Once extracted, you have to launch *LaVoiedelaPasteque.exe* then you can enjoy the game.
+[**You can download the compressed folder of the game here.**](https://github.com/chengzhe-wang/La-Voie-de-la-Pasteque/raw/main/LaVoieDeLaPasteque.zip) Once extracted, you have to launch *LaVoiedelaPasteque.exe* then you can enjoy the game.
   
 During the game, there will be three portals : this is where we separated our work. Every portal leads to a part of the game that each of us created independently. For example, the portal with the letter "C" is the part that I made as the "C" stands for Chengzhe.  
 
